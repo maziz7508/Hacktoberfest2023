@@ -6,3 +6,5 @@
 * **Please Maintain Directory Structure**
 
 * # Beginners are Accepted too 
+
+[Visit Blog](https://shahnishant.com.np)
