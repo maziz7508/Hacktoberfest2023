@@ -5,6 +5,8 @@
 
 * **Please Maintain Directory Structure**
 
-* # Beginners are Accepted too 
+* # Beginners are Accepted too
+
+* Disobey will be labled `spam`
 
 [Visit Blog](https://shahnishant.com.np)
