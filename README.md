@@ -1,4 +1,4 @@
-# Hacktoberfest-2023
+# Excluded Hacktoberfest-2023 Repo
 
 [Read Hacktoberfest Participation Guide](https://hacktoberfest.com/participation/)
 * Do Pull request for Hacktoberfest 2023
